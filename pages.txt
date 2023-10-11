@@ -1,0 +1,160 @@
+<!--	index.html	-->
+
+<!--	Showcase	-->
+<p>
+	Hello! We are the Gateway to the West,
+	known for our iconic Gateway Arch, 
+	fiercely loyal sports fans, and 
+	blues music scene.
+</p>
+
+<!--	Cards Text	-->
+<p>
+	Strike 3 youre out win lose or draw drop 
+	goal corner school red card drop goal slog 
+	sweep over cow corner shes on fire.
+	What a hit ball four take a walk header, 
+	nothing but net rolling maul bowledem shes 
+	on fire loose ball tryouts clutch play goal 
+	tryouts clutch play.
+</p>
+
+<!--	Blues Text	-->
+<p>
+	Trust our processes what a hit goaltender 
+	sports red card win lose or draw bowledem 
+	shes on fire ball four take a walk.
+	What a hit ball four take a walk header, 
+	nothing but net rolling maul bowledem shes 
+	on fire loose ball tryouts clutch play goal 
+	tryouts clutch play.
+</p>
+
+<!--	Soccer Text	-->
+<p>
+	Nothing but net ball half time drop goal 
+	goal, half time bust up the middle forward 
+	pack beep test trust our processes.
+	What a hit ball four take a walk header, 
+	nothing but net rolling maul bowledem shes 
+	on fire loose ball tryouts clutch play goal 
+	tryouts clutch play clutch play.
+</p>
+
+<!--	about.html	-->
+
+<!--	About St. Louis		-->
+<p>
+	St. Louis is the second-largest city in Missouri. 
+	It sits near the confluence of the Mississippi and the 
+	Missouri Rivers. In 2020, the city proper had a 
+	population of 301,578, while the bi-state metropolitan 
+	area, which extends into Illinois, had an estimated 
+	population of over 2.8 million, making it the largest 
+	metropolitan area in Missouri, the second-largest in 
+	Illinois, and the 20th-largest in the United States.
+</p>
+<p>
+	Before European settlement, the area was a regional 
+	center of Native American Mississippian culture. 
+	St. Louis was founded on February 14, 1764, by French 
+	fur traders Gilbert Antoine de St. Maxent, Pierre Laclède 
+	and Auguste Chouteau, who named it for Louis IX of France. 
+	In 1764, following France's defeat in the Seven Years' War, 
+	the area was ceded to Spain. In 1800, it was retroceded to 
+	France, which sold it three years later to the United 
+	States as part of the Louisiana Purchase; the city was 
+	then the point of embarkation for the Corps of Discovery on 
+	the Lewis and Clark Expedition. In the 19th century, St.
+	Louis became a major port on the Mississippi River; from 
+	1870 until the 1920 census, it was the fourth-largest city 
+	in the country. It separated from St. Louis County in 1877, 
+	becoming an independent city and limiting its political 
+	boundaries. In 1904, it hosted the Louisiana Purchase 
+	Exposition and the Summer Olympics.
+</p>
+<p>
+	A "Gamma" global city with a metropolitan GDP of more 
+	than $160 billion in 2017, metropolitan St. Louis has 
+	a diverse economy with strengths in the service, manufacturing,
+	trade, transportation, and tourism industries. It is home to 
+	eight Fortune 500 companies. Major companies headquartered or 
+	with significant operations in the city include Ameren 
+	Corporation, Peabody Energy, Nestlé Purina PetCare, Anheuser-Busch, 
+	Wells Fargo Advisors, Stifel Financial, Spire, Inc., 
+	MilliporeSigma, FleishmanHillard, Square, Inc., U.S. Bank, 
+	Anthem BlueCross and Blue Shield, Federal Reserve Bank of 
+	St. Louis, U.S. Department of Agriculture, National 
+	Geospatial-Intelligence Agency, Centene Corporation, and 
+	Express Scripts.
+	</p>
+<p>
+	Major research universities include Saint Louis University and 
+	Washington University in St. Louis. The Washington University 
+	Medical Center in the Central West End neighborhood hosts an 
+	agglomeration of medical and pharmaceutical institutions, 
+	including Barnes-Jewish Hospital.
+
+<!--	contact.html	-->
+
+<div>
+	<label for="state">State</label><br />
+		<select>
+			<option value="AL">Alabama</option>
+			<option value="AK">Alaska</option>
+			<option value="AZ">Arizona</option>
+			<option value="AR">Arkansas</option>
+			<option value="CA">California</option>
+			<option value="CO">Colorado</option>
+			<option value="CT">Connecticut</option>
+			<option value="DE">Delaware</option>
+			<option value="DC">District Of Columbia</option>
+			<option value="FL">Florida</option>
+			<option value="GA">Georgia</option>
+			<option value="HI">Hawaii</option>
+			<option value="ID">Idaho</option>
+			<option value="IL">Illinois</option>
+			<option value="IN">Indiana</option>
+			<option value="IA">Iowa</option>
+			<option value="KS">Kansas</option>
+			<option value="KY">Kentucky</option>
+			<option value="LA">Louisiana</option>
+			<option value="ME">Maine</option>
+			<option value="MD">Maryland</option>
+			<option value="MA">Massachusetts</option>
+			<option value="MI">Michigan</option>
+			<option value="MN">Minnesota</option>
+			<option value="MS">Mississippi</option>
+			<option value="MO">Missouri</option>
+			<option value="MT">Montana</option>
+			<option value="NE">Nebraska</option>
+			<option value="NV">Nevada</option>
+			<option value="NH">New Hampshire</option>
+			<option value="NJ">New Jersey</option>
+			<option value="NM">New Mexico</option>
+			<option value="NY">New York</option>
+			<option value="NC">North Carolina</option>
+			<option value="ND">North Dakota</option>
+			<option value="OH">Ohio</option>
+			<option value="OK">Oklahoma</option>
+			<option value="OR">Oregon</option>
+			<option value="PA">Pennsylvania</option>
+			<option value="RI">Rhode Island</option>
+			<option value="SC">South Carolina</option>
+			<option value="SD">South Dakota</option>
+			<option value="TN">Tennessee</option>
+			<option value="TX">Texas</option>
+			<option value="UT">Utah</option>
+			<option value="VT">Vermont</option>
+			<option value="VA">Virginia</option>
+			<option value="WA">Washington</option>
+			<option value="WV">West Virginia</option>
+			<option value="WI">Wisconsin</option>
+			<option value="WY">Wyoming</option>
+		</select>
+</div>
+
+
+
+
+
